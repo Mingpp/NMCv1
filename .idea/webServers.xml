@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c022f626-c82a-4a29-a925-f3674b258087" name="v1">
+        <fileTransfer rootFolder="/home/NMCv1" accessType="SFTP" host="192.168.137.3" port="22" sshConfigId="5f55930a-f837-4158-a7cc-28dc583528cb" sshConfig="root@192.168.137.3:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
